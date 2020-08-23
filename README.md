@@ -22,3 +22,16 @@ Pygame screen: size * size
 *______________________
 </pre>
 
+---
+
+- https://ashwinnarayan.blogspot.com/2014/07/inverse-kinematics-for-2dof-arm.html
+
+- https://www.ashwinnarayan.com/invkin/
+
+- https://en.wikipedia.org/wiki/Inverse_kinematics
+
+- https://www.sciencedirect.com/topics/engineering/inverse-kinematics-problem
+
+- https://www.mathworks.com/discovery/inverse-kinematics.html
+
+
