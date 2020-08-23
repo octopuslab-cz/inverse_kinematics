@@ -8,7 +8,9 @@ Basic Micropython lib: https://github.com/octopusengine/octopuslab/blob/master/e
 ## python-pygame-simulation 
 
 arm = 70mm
+
 Pygame screen: size * size
+
 
 <pre>
 |     /
