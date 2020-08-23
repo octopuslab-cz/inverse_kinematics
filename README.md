@@ -24,6 +24,12 @@ Pygame screen: size * size
 
 ---
 
+## Octopus DRAW BOT 2
+
+https://www.thingiverse.com/thing:4577405
+
+---
+
 - https://ashwinnarayan.blogspot.com/2014/07/inverse-kinematics-for-2dof-arm.html
 
 - https://www.ashwinnarayan.com/invkin/
