@@ -15,7 +15,7 @@ Pygame screen: size * size
 <pre>
 |     /
 |    / beta
-|   *----------* (xB,yB)
+|   *----------* (xB,yB) = x1, y1
 |  / (xA,yA)
 | /
 |/ alfa
